@@ -18,7 +18,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# <small> What we did last <s>week</s> time?</small>
+# <small> What we did last <s>week</s> time</small>
 
 ----
 
@@ -50,7 +50,7 @@ presentation for today?
 ----
 
 Who of you sent a pdf <br>
-version or your presentation <br>
+version of your presentation <br>
 to your instructor?
 
 ----
@@ -69,23 +69,101 @@ last time's homework?
 
 ----
 
-You only have 5 minutes for your presentation
+You only have 5 minutes <br>
+for your presentation
 
 ----
 
-You will be notified when the final minute starts
+You will be notified before <br>
+the final minute starts
 
 ----
 
-You have 3 additional minutes to answer questions
+You have 3 additional minutes <br>
+to answer questions
+
+----
+
+Any questions?
 
 # <small>Proposal reviews</small>
 
 ----
 
+Choose your favorite project <br>
+(one from each university)
+
+----
+
+Write it down on a piece of paper <br>
+(one for each university)
+
+----
+
+The two projects from each <br>
+university with the most votes <br>
+will "win" (final projects)
+
+----
+
+Any questions?
+
+# <small>Research groups</small>
+
+----
+
+Research will be done in mixed groups <br>
+(with students from each university)
+
+----
+
+If your project was not chosen <br>
+as a final project, you will work in <br>
+a project from the other university
+
+----
+
+Any questions?
+
+# <small>Running order</small>
+
+----
+
+1: Christina Ioanna Schoina <br>
+2: Ioanna Falegka <br>
+3: Anastasios Tsilingiris <br>
+4: Erasmia Kaminari <br>
+5: Malamatenia Karvouniari <br>
+
+----
+
+Short break (10 minutes)
+
+----
+
+6: Marianna Zachou <br>
+7: Valliano Rokai <br>
+8: Kyriaki Lazaki <br>
+9: Eleni Rigina Vouloumanou <br>
+10: Vaia Sideropoulou <br>
+
+----
+
+Short break (10 minutes)
+
+----
+
+11: Fotios Ntagkas <br>
+12: Stavroula Blazaki <br>
+13: Eleni Boutiou <br>
+14: Katerina Dimitriadou <br>
+15: Chrysoyla Kampadai 
+
+
 # <small>Let's go</small>
 
 ----
+
 
 1: Christina Ioanna Schoina <br>
 (next: Ioanna Falegka)
@@ -98,65 +176,108 @@ You have 3 additional minutes to answer questions
 ----
 
 3: Anastasios Tsilingiris <br>
-(next: Chrysoyla Kampadai)
+(next: Erasmia Kaminari)
 
 ----
 
-4: Chrysoyla Kampadai <br>
+4: Erasmia Kaminari <br>
 (next: Malamatenia Karvouniari)
 
 ----
 
 5: Malamatenia Karvouniari <br>
-(next: Katerina Dimitriadou)
+(next: Marianna Zachou)
 
 ----
 
-6: Katerina Dimitriadou <br>
+## <small>Short break (10 minutes)</small>
+
+----
+
+6: Marianna Zachou <br>
 (next: Valliano Rokai)
 
 ----
 
 7: Valliano Rokai <br>
-(next: Erasmia Kaminari)
+(next: Kyriaki Lazaki)
 
 ----
 
-8: Erasmia Kaminari <br>
+8: Kyriaki Lazaki <br>
 (next: Eleni Rigina Vouloumanou)
 
 ----
 
 9: Eleni Rigina Vouloumanou <br>
-(next: Stavroula Blazaki)
-
-----
-
-10: Stavroula Blazaki <br>
-(next: Fotios Ntagkas)
-
-----
-
-11: Fotios Ntagkas <br>
 (next: Vaia Sideropoulou)
 
 ----
 
-12: Vaia Sideropoulou <br>
+10: Vaia Sideropoulou <br>
+(next: Fotios Ntagkas)
+
+----
+
+## <small>Short break (10 minutes)</small>
+
+----
+
+11: Fotios Ntagkas <br>
+(next: Stavroula Blazaki)
+
+----
+
+12: Stavroula Blazaki <br>
 (next: Eleni Boutiou)
 
 ----
 
 13: Eleni Boutiou <br>
-(next: Zachou Marianna)
+(next: Katerina Dimitriadou)
 
 ----
 
-14: Zachou Marianna <br>
-(next: Kyriaki Lazaki)
+14: Katerina Dimitriadou <br>
+(next: Chrysoyla Kampadai)
+
+----
+
+15: Chrysoyla Kampadai 
 
 # <small>Great job!</small>
 
+# <small>Choose the final projects</small>
+
+----
+
+Choose your favorite project <br>
+(one from each university)
+
+----
+
+Write it down on a piece of paper <br>
+(one for each university)
+
+----
+
+Give your vote to your instructor
+
+# <small>Choose your research group</small>
+
+----
+
+Write your name on a piece of paper
+
+----
+
+Add the two projects from the other <br>
+university in your order of preference <br>
+(1. favorite, 2. second favorite)
+
+----
+
+Give your vote to your instructor
 
 # <small>Preview: next week</small>
 
@@ -166,6 +287,10 @@ You have 3 additional minutes to answer questions
 
 <i>No course!</i>
 
+----
+
+I will sent you links to the projects
+
 # <small>Preview: next session</small>
 
 ----
@@ -174,13 +299,17 @@ On Wednesday, 25th of April
 
 ----
 
-"Present your project results I"
+"Present your project results"
 
 # <small>Homework</small>
 
 ----
 
 Start collecting data
+
+----
+
+Participate in every project
 
 ----
 
